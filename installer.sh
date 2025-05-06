@@ -16,7 +16,7 @@ if [[ ! -d "playwright-venv" ]]; then
   python3.13 -m pip install --upgrade pip
   playwright install
   deactivate
-  cd -
+  cd $BACK
 else
   source  ~/Apps/playwright-venv/bin/activate
   cd $BACK
