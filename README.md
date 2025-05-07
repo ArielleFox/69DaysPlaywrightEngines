@@ -3,6 +3,11 @@
 ### Contribute, Commit And Push :3
 Add your own scripts to it and make this library grow <3
 
+
+# Wall Of Fame (People That Contributed)
+@clairexen https://github.com/clairexen
+
+---
                                                                      
 ```bash                                          
 # .sSSSSs.    .sSSSSs.                                                    
